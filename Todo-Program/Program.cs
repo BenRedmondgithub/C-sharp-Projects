@@ -14,7 +14,7 @@ while(!shallExit)
     Console.WriteLine("[R]emove a ToDo");
     Console.WriteLine("[E]xit");
 
-    var userChoice = Console.ReadKey();
+    var userChoice = Console.ReadLine();
 
     switch (userChoice)
     {
@@ -36,11 +36,6 @@ while(!shallExit)
         case "R":
         case "r": 
         Console.WriteLine("[R]emove a ToDo");
-        break;
-
-        case "E":
-        case "e": 
-        shallExit = true;
         break;
 
         default: 
