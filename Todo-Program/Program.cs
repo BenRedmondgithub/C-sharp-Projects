@@ -65,15 +65,33 @@ void SeeAllTodos()
 
 void AddTodo() 
 {
+    string description;
+    do 
+    {
+        Console.WriteLine("Enter The ToDo Description");
+        description = Console.ReadLine();
+    }
 
-
+    while (!IsDescriptionValid(description));
+    todos.Add(description);
 }
 
 bool IsDescriptionValid(string description) 
 {
 
+if (description == "") 
 
+{
+    Console.WriteLine("The Description cannot be empty");
+}
+if (todos.Contains(description)) 
 
+{
+Console.WriteLine("The description Must be unique");
+return false;
+} 
+
+return true;
 }
 
 void RemoveTodo() 
