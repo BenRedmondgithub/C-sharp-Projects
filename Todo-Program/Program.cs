@@ -30,16 +30,16 @@ while(!shallExit)
 
         case "A":
         case "a": 
-        Console.WriteLine("[A]dd a ToDo");
+        AddTodo();
         break;
 
         case "R":
         case "r": 
-        Console.WriteLine("[R]emove a ToDo");
+        RemoveTodo();
         break;
 
         default: 
-        Console.WriteLine("Invalid Choice")
+        Console.WriteLine("Invalid Choice");
         break;
     }
 }
