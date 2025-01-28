@@ -1,0 +1,15 @@
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\bin\Debug\net9.0\OddOrEven project.exe
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\bin\Debug\net9.0\OddOrEven project.deps.json
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\bin\Debug\net9.0\OddOrEven project.runtimeconfig.json
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\bin\Debug\net9.0\OddOrEven project.dll
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\bin\Debug\net9.0\OddOrEven project.pdb
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.AssemblyInfoInputs.cache
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.AssemblyInfo.cs
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.csproj.CoreCompileInputs.cache
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.sourcelink.json
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.dll
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\refint\OddOrEven project.dll
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.pdb
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\OddOrEven project.genruntimeconfig.cache
+C:\Users\redmo\Desktop\C OOP\week 3\OddOrEven project\obj\Debug\net9.0\ref\OddOrEven project.dll
