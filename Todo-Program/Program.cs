@@ -79,18 +79,20 @@ void AddTodo()
 bool IsDescriptionValid(string description) 
 {
 
-if (description == "") 
+    if (description == "") 
 
-{
+    {
     Console.WriteLine("The Description cannot be empty");
-}
-if (todos.Contains(description)) 
+    }
 
-{
-Console.WriteLine("The description Must be unique");
-return false;
-} 
+    if (todos.Contains(description)) 
 
+    {
+    
+    Console.WriteLine("The description Must be unique");
+    return false;
+    
+    }
 return true;
 }
 
@@ -101,7 +103,7 @@ void RemoveTodo()
 
 }
 
-bool TryReadIndex(out int index)
+//bool TryReadIndex(out int index)
 {
 
 
