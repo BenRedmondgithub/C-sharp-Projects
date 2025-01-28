@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\redmo\\Desktop\\C sharp Projects\\OddOrEven project\\OddOrEven project.csproj": {}
+    "C:\\Users\\redmo\\Desktop\\C sharp Projects\\Todo-Program\\Todo-Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\redmo\\Desktop\\C sharp Projects\\OddOrEven project\\OddOrEven project.csproj": {
+    "C:\\Users\\redmo\\Desktop\\C sharp Projects\\Todo-Program\\Todo-Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\OddOrEven project\\OddOrEven project.csproj",
-        "projectName": "OddOrEven project",
-        "projectPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\OddOrEven project\\OddOrEven project.csproj",
+        "projectUniqueName": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\Todo-Program\\Todo-Program.csproj",
+        "projectName": "Todo-Program",
+        "projectPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\Todo-Program\\Todo-Program.csproj",
         "packagesPath": "C:\\Users\\redmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\OddOrEven project\\obj\\",
+        "outputPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\Todo-Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\redmo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redmo\\Desktop\\C OOP\\week 3\\TemperatureConverter\\TemperatureConverter.csproj",
+      "projectUniqueName": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\TemperatureConverter\\TemperatureConverter.csproj",
       "projectName": "TemperatureConverter",
-      "projectPath": "C:\\Users\\redmo\\Desktop\\C OOP\\week 3\\TemperatureConverter\\TemperatureConverter.csproj",
+      "projectPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\TemperatureConverter\\TemperatureConverter.csproj",
       "packagesPath": "C:\\Users\\redmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redmo\\Desktop\\C OOP\\week 3\\TemperatureConverter\\obj\\",
+      "outputPath": "C:\\Users\\redmo\\Desktop\\C sharp Projects\\TemperatureConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\redmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
