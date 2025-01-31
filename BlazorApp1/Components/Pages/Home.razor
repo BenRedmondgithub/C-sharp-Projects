@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello @getUserName() Welcome to Blazor</h1>
+
+
+@code {
+    private string userName = "Ben";
+    private string getUserName()
+    {
+        return userName + "!";
+    }
+
+    private void ShowAlert()
+    {
+        JSRuntime.InvokeVoidAsync("alert", "Hello from Blazor!");
+    }
+
+    [Inject]
+    private IJSRuntime JSRuntime { get; set; }
+}
