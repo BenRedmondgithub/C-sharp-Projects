@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo-Program", "Todo-Progra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B4FC3DAB-D970-4009-881E-E3CF49667591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataTypeApp", "dataTypeApp\dataTypeApp.csproj", "{1E69655F-72AD-42EA-8FDF-281E54024EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{B4FC3DAB-D970-4009-881E-E3CF49667591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FC3DAB-D970-4009-881E-E3CF49667591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FC3DAB-D970-4009-881E-E3CF49667591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E69655F-72AD-42EA-8FDF-281E54024EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E69655F-72AD-42EA-8FDF-281E54024EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E69655F-72AD-42EA-8FDF-281E54024EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E69655F-72AD-42EA-8FDF-281E54024EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

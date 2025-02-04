@@ -1,0 +1,15 @@
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\bin\Debug\net9.0\dataTypeApp.exe
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\bin\Debug\net9.0\dataTypeApp.deps.json
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\bin\Debug\net9.0\dataTypeApp.runtimeconfig.json
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\bin\Debug\net9.0\dataTypeApp.dll
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\bin\Debug\net9.0\dataTypeApp.pdb
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.AssemblyInfoInputs.cache
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.AssemblyInfo.cs
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.sourcelink.json
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.dll
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\refint\dataTypeApp.dll
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.pdb
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\dataTypeApp.genruntimeconfig.cache
+C:\Users\redmo\Desktop\C sharp Projects\dataTypeApp\obj\Debug\net9.0\ref\dataTypeApp.dll
