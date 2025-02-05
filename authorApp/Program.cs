@@ -33,6 +33,14 @@ namespace authorApp
 
     }
 
+    public void showResArea()
+    {
+        foreach (var resArea in ReseachArea)
+        {
+            Console.WriteLine(resArea);
+        }
+    }
+
     class Program 
     {
         public static void Main(string[] args)
